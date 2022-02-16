@@ -14,8 +14,6 @@ const transpose = function(matrix) {
 };
   
 
-
-
 const wordSearch = (letters, word) => {
   if (letters.length === 0 || word.length === 0) {
     return undefined;
